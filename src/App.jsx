@@ -29,6 +29,8 @@ const App = () => {
           </button>
         )}
       </section>
+      <footer>Creado por   <a href="https://birthdaybuddydudu.netlify.app/" class="btn btn-block"
+            >Luis González - Volver al portfolio</a> </footer>
     </main>
   );
 };
