@@ -31,7 +31,7 @@ const App = () => {
       </section>
 
     </main>
-          <footer>Creado por   <a href="https://birthdaybuddydudu.netlify.app/" class="btn btn-block"
+          <footer>Creado por   <a href="https://dudufcb.netlify.app/" class="btn btn-block"
             >Luis González - Volver al portfolio</a> </footer>
   );
 };
