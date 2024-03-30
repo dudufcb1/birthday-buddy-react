@@ -28,11 +28,12 @@ const App = () => {
             Refresh
           </button>
         )}
+               <footer>Creado por   <a href="https://dudufcb.netlify.app/" class="btn btn-block"
+            >Luis González - Volver al portfolio</a> </footer>
       </section>
 
     </main>
-          <footer>Creado por   <a href="https://dudufcb.netlify.app/" class="btn btn-block"
-            >Luis González - Volver al portfolio</a> </footer>
+   
   );
 };
 export default App;
