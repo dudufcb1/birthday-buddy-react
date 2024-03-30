@@ -28,7 +28,7 @@ const App = () => {
             Refresh
           </button>
         )}
-               <footer>Creado por   <a href="https://dudufcb.netlify.app/" 
+               <footer style="text-align: center;">Creado por   <a href="https://dudufcb.netlify.app/" 
             >Luis González - Volver al portfolio</a> </footer>
       </section>
 
