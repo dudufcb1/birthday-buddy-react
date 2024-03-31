@@ -30,7 +30,11 @@ const App = () => {
         )}
 
       </section>
-
+      <footer style={{ textAlign: 'center' }}>
+        <a href="https://dudufcb.netlify.app/" target="">
+          Trabajo realizado por Luis González | Volver Al Portafolio
+        </a>
+      </footer>
     </main>
    
   );
